@@ -60,7 +60,7 @@ python main.py -i example.jpg -o results/ -ds indoor -d auto -v -do -no
 ```
 
 ## Important
-    Ensure that your system has enough free memory to avoid memory allocation errors.
+Ensure that your system has enough free memory to avoid memory allocation errors.
 
 ## Note
 - dataset - `indoor` has max depth detection of 20 meters

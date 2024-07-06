@@ -3,7 +3,7 @@
 ## Overview
 InfiniteDepth is a powerful tool for generating high-definition depth maps from images of any size. Utilizing the DepthAnythingV2 model, it ensures accurate metric depth estimations. This tool is designed to work seamlessly with large images, breaking them down into manageable tiles, then combining, filtering and optimizing the results into a comprehensive high definition depth map.
 
-## Example
+## Example Images
 [Test Image](/demo/demo_files/test_img.jpg)
 [Data Image](/demo/demo_files/Figure_1.png)
 [Data Image Output](/demo/demo_files/data_test_img.jpg)

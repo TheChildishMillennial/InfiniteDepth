@@ -71,4 +71,4 @@ Ensure that your system has enough free memory to avoid memory allocation errors
 - **TilingZoeDepth**: Adapted from Tiled Zoe Depth V3 [TilingZoeDepth](https://github.com/BillFSmith/TilingZoeDepth)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](.LICENSE) file for details."# InfiniteDepth" 
+This project is licensed under the MIT License. See the [LICENSE](.LICENSE) file for details.

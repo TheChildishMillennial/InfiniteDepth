@@ -54,11 +54,6 @@ InfiniteDepth is a powerful tool for generating high-definition depth maps from 
 - **`-do`, `--data_output`**: Save metric depth data to a float32 file. Use this flag to enable.
 - **`-no`, `--normalized_output`**: Convert output channel data to uint8 (0-255). Use this flag to enable.
 
-## Example
-```
-python main.py -i example.jpg -o results/ -ds indoor -d auto -v -do -no
-```
-
 ## Important
 Ensure that your system has enough free memory to avoid memory allocation errors.
 

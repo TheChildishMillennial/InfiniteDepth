@@ -128,3 +128,4 @@ hd_depth\checkpoints\depth_anything_v2_metric_hypersim_vitl.pth
 
 # Project specific
 # Add any other files or directories you want to ignore below
+*.pth
